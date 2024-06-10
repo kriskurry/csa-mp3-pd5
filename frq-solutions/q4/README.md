@@ -1,0 +1,13 @@
+# QUESTION 4
+
+## THIS Question is about...
+For this question we have use two classes to go through a 2D array and to go on to find the sum of paths. 
+
+## STRUGGLES with this question...
+I didn't read the question properly therefore I didnt understand what was being asked and why
+
+## PRIOR experience...
+- 2D array practice problems in class has jogged my memory. 
+
+## LESSON I learned...
+Take each step one by one and plan  
